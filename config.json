@@ -1,0 +1,6 @@
+{
+  "use": ["autoprefixer"],
+  "input": "src/styles.css",
+  "output": "build.css",
+  "local-plugins": true
+}
